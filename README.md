@@ -31,3 +31,7 @@ j k l
 // CAPS LOCK MUST BE OFF
  
 */
+
+## Installation
+
+File must be placed in a folder of same name as that of pde
