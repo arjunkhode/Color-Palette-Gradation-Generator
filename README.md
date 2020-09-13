@@ -3,6 +3,9 @@ Real time, interactive gradation generator
 
 Works with Processing 3
 
+COLORPALETTE ver 2.1
+Can fill random squares with colors of controlled randomness
+
 /* COLORPALETTE ver 2.0
 // generates a gradation of colors 
 
